@@ -1,0 +1,52 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkcyan;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    width: 80%;
+    max-width: 800px;
+    min-height: 400px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h1{
+    color:#C11316;
+    text-align: center;
+
+}
+
+#new-task{
+    width: 30%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+
+}
+
+#add-task{
+    padding: 15px 30px;
+    background-color:rgb(92, 170, 14);
+    border-radius: 8px;
+    color: blue;
+    cursor: pointer;
+}
+
+#add-task:hover{
+    background-color: lightgreen;
+}

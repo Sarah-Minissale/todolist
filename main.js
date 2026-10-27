@@ -1,0 +1,1 @@
+const qualcosa = document.getElementById("");
