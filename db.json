@@ -1,19 +1,19 @@
 {
     "todos": [
         {
-            "title": "task1",
+            "title": "pulire le lettiere",
             "completed": true
         },
         {
-            "title": "task2",
+            "title": "andare in palestra",
             "completed": false
         },
         {
-            "title": "task3",
+            "title": "fare la spesa",
             "completed": true
         },
         {
-            "title": "task4",
+            "title": "andare a passeggiare",
             "completed": false
         }
     ]
