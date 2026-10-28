@@ -1,5 +1,5 @@
-body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background-color: darkcyan;
     margin: 0;
     padding: 0;
@@ -8,10 +8,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
-.container{
+.container {
     width: 80%;
     max-width: 800px;
     min-height: 400px;
@@ -22,31 +21,30 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
 }
 
-h1{
-    color:#C11316;
+h1 {
+    color: #c11316;
+    width: 100%;
     text-align: center;
-
+    transform: translateX(-5px);
 }
 
-#new-task{
+#new-task {
     width: 30%;
     padding: 10px;
     border-radius: 8px;
     margin-bottom: 8px;
-
 }
 
-#add-task{
+#add-task {
     padding: 15px 30px;
-    background-color:rgb(92, 170, 14);
+    background-color: rgb(92, 170, 14);
     border-radius: 8px;
     color: blue;
     cursor: pointer;
 }
 
-#add-task:hover{
+#add-task:hover {
     background-color: lightgreen;
 }
