@@ -1,20 +1,10 @@
 {
-    "todos": [
-        {
-            "title": "pulire le lettiere",
-            "completed": true
-        },
-        {
-            "title": "andare in palestra",
-            "completed": false
-        },
-        {
-            "title": "fare la spesa",
-            "completed": true
-        },
-        {
-            "title": "andare a passeggiare",
-            "completed": false
-        }
-    ]
+  "todos": [
+    {
+      "title": "khhfghfg",
+      "id": "bBQHs8RTbqw",
+      "completed": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

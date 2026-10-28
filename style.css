@@ -11,8 +11,7 @@ body {
 }
 
 .container {
-    width: 80%;
-    max-width: 800px;
+    width: 30%;
     min-height: 400px;
     background-color: antiquewhite;
     padding: 50px;
@@ -47,4 +46,8 @@ h1 {
 
 #add-task:hover {
     background-color: lightgreen;
+}
+
+li span.done {
+    text-decoration: line-through;
 }
